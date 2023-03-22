@@ -1,5 +1,6 @@
 # tgbot
 export DEBUG="grammy*" paste in terminal for debugging
+
 ffmpeg is required for correct work in telegram
 
 When initializing the project, enter "npm -ci" to download all dependencies
