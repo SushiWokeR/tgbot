@@ -1,0 +1,19 @@
+{
+  "name": "tgbot",
+  "version": "1.0.0",
+  "description": "export DEBUG=\"grammy*\" paste in terminal for debugging",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "grammy": "^1.36.1"
+  },
+  "devDependencies": {
+    "@types/node": "^22.14.1"
+  }
+}
